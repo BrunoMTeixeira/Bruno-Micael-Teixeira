@@ -1,4 +1,4 @@
-# Hi, I'm Bruno 👋
+# Hi, I'm Bruno
 
 I'm a Computer Engineering student at ISEP with a strong focus on backend development, distributed systems, and full-stack engineering.  
 I enjoy building real systems that work in practice — from low-level C programs with IPC to full-stack applications in Java/React with CI/CD and automated tests.
@@ -7,7 +7,7 @@ I have hands-on experience across several multi-semester engineering projects (L
 
 ---
 
-## 🔧 Technical Focus
+##  Technical Focus
 - **Backend Development:** Java, Spring Boot, Node.js  
 - **Full-Stack Development:** React, Angular, JavaFX  
 - **Systems Programming:** C, IPC (pipes, shared memory, semaphores), processes, multithreading  
@@ -48,5 +48,6 @@ JavaFX application with MVC architecture and data reporting.
 
 ## 📫 Contact
 **btmicael05@gmail.com**
+
 **www.linkedin.com/in/brunomteixeira05**
 
